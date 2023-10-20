@@ -1,0 +1,35 @@
+body {
+    background: rgb(93, 114, 181);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+}
+
+section {
+    background: whitesmoke;
+    border-radius: 5px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgb(33, 51, 110);
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+}
+
+#imagem {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+footer {
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
